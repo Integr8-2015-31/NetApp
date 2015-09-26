@@ -1,0 +1,17 @@
+Tile IDs
+
+0 Empty
+1 Full Block
+2 stair left
+
+
+
+character bounds
+
+top left 11,16
+top middle 13,16
+top right 15,16
+
+bot left 11,31
+bot middle 13,31
+bot right 15,31
